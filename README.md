@@ -76,5 +76,5 @@ http://127.0.0.1:8000/doc/
 _not-for-deployment_
 
 ## Contact
-- Project By: **Aditya Raj**.
+- Project By: **Aditya Raj**, **Abhiraj Gupta**, **Devansh Kaushik** and **Kamran Jameel**.
 - <a href="mailto:araj.mishra2000@gmail.com">Email Me</a>
