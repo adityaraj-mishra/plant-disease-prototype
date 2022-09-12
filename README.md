@@ -1,4 +1,4 @@
-# Aditya Raj
+# Plant Leaf Disease Detection System - Prototype
 
 ## Table of Contents
 * [General Info](#general-information)
