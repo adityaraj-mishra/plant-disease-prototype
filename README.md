@@ -61,7 +61,7 @@ python main.py
 ```
 --> To add the data, use url :
 ```bash
-http://127.0.0.1:8000/doc/
+http://127.0.0.1:8000/docs/
 
 ```
 > ⚠ Then, the docs index will open and goto predict method.
